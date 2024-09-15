@@ -6,3 +6,5 @@
 This repository is the sample of web application using golang.
 test code v.1
 this is test line
+this is test line2
+
